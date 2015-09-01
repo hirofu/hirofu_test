@@ -1,2 +1,1 @@
-# hirofu_test
-C++ Project Test
+## Practice Repo - Not a Useful Program
