@@ -1,2 +1,2 @@
-# hirofu_test
-C++ Project Test
+# onishi practice
+how it works
